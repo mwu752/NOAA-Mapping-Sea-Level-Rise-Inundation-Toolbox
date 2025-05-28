@@ -17,7 +17,7 @@ The tool is based on NOAA’s Sea Level Rise Viewer methodology and is designed 
 
 **SLR Flood Depth Generator**
 
-## ⚙Parameters
+## Parameters
 
 | Parameter | Type | Description |
 |----------|------|-------------|
